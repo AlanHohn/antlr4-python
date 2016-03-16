@@ -4,7 +4,9 @@ This repository is a simple example of ANTLR4 in Python 2.
 
 ## Getting started
 
-First, download the ANTLR complete JAR from [the ANTLR site][http://www.antlr.org/].
+First, download the ANTLR complete JAR from [the ANTLR site][antlr].
+
+[antlr]:http://www.antlr.org/
 
 Next, install the ANTLR4 Python 2 runtime:
 
