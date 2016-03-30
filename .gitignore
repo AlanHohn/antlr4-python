@@ -1,10 +1,13 @@
 # ANTLR generated files
-HelloLexer.py
-HelloParser.py
-HelloListener.py
+*Lexer.py
+*Parser.py
+*Listener.py
 
 # ANTLR token files
 *.tokens
+
+# Vi swap files
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
