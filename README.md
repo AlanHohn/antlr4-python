@@ -6,6 +6,7 @@ This repository is a simple example of ANTLR4 in Python 2.
 
 * hello-simple: Simplest example, based on the ANTLR documentation.
 * hello-multiple: Slightly more complicated grammar to handle multiple items of input.
+* arithmetic: Walking the tree directly (not using a listener).
 
 ## Getting started
 
